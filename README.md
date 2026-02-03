@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+ 
 **john-cooling-smartworker/john-cooling-smartworker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about starting and running tech business and recruiting IT specialists
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Born in Toowoomba, a great city on the Darling Downs
--->
+ 
